@@ -1,4 +1,4 @@
-# Lock Free Contention Adaptive Trees
+# Lock Free Contention Adaptive Tree STM Comparison
 
 The prevalence of larger and larger datasets necessitates modifications to the means
 by which these data are stored and accessed.  To efficiently increase the throughput
